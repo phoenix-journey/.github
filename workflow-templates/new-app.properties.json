@@ -1,0 +1,10 @@
+{
+    "name": "New App in the Phoenix Journey world",
+    "description": "Push your work to be available for you and other players",
+    "iconName": "paper-plane",
+    "categories": [
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
