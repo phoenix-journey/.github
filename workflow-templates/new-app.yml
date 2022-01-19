@@ -26,7 +26,7 @@ env:
 
 jobs:
   setup-build-deploy:
-    name: Setup, Build, and Deploy
+    name: Setup, Build, and Deploy 🚀
     runs-on: self-hosted # ubuntu-latest
 
     # Add "id-token" with the intended permissions.
