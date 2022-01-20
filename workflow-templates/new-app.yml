@@ -16,7 +16,9 @@ name: Build using Cloud Build
 
 on:
   push:
-  pull_request: 
+    branches:
+    - $default-branch
+  pull_request:
     branches:
     - $default-branch
 
