@@ -45,7 +45,7 @@ Where everything is an app. Do you want to play? Create an app and play your way
     * _nginx_ and last but not least 
     * _nutek-shell_...
   * [nutek-shell](https://github.com/phoenix-journey/nutek-shell) wrapper around tools found in _nutek-core_, so you can have some hand-holding along the way.
-  * [nutek](https://github.com/phoenix-journey/nutek) bundles _nutek-core_ 
+  * [nutek-terminal](https://github.com/phoenix-journey/nutek-terminal) bundles _nutek-core_ 
     * inside [Alacritty](https://github.com/alacritty/alacritty) terminal window, easy to install, so that you can have resonating experience using all that hacking and dev tools. 
     * Additionally few GiB of space if used to accomodate for 
       * [SecLists](https://github.com/phoenix-journey/SecLists.git), 
