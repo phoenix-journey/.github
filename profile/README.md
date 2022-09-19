@@ -12,6 +12,10 @@ Where everything is an app. Do you want to play? Create an app and play your way
 
 ## What to do?
 
+**TL;DR**
+
+`apt update && apt install -y neovim python3.10 python3-distutils python3-venv rust-all golang ruby-full nodejs git build-essential irssi openssh-server w3m powershell curl ncat mitmproxy hurl gobuster nmap tcpdump bind9-dnsutils net-tools sqlmap openvpn iptables nginx-extras seclists payloadsallthethings && echo "Thank you, Nutek"` 
+
 - Nutek. The only h@xor tool you will ever need 🥷. _Currently in rapid development phase/many changes/frequent recreation of containers_
   * [nutek-core](https://github.com/phoenix-journey/nutek-core). 
     * _Docker_ images that extends `FROM kalilinux/kali-rolling:latest` that is based on `Debian Linux` distribution. Batteries included. 
