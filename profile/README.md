@@ -60,6 +60,8 @@ Where everything is an app. Do you want to play? Create an app and play your way
 
 ## Support me
 
-TODO
+[PayPal](https://www.paypal.com/paypalme/neosb)
+
+[Github Sponsors](https://github.com/sponsors/phoenix-journey)
 
 [Neosb](https://neosb.marketplaceinspace.com)
