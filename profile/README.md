@@ -10,6 +10,18 @@ Where everything is an app. Do you want to play? Create an app and play your way
 4. Process
 5. Send -> receive result
 
+## NEW way to start Nutek Terminal
+
+Look into [nutek-run-scripts](https://github.com/phoenix-journey/nutek-run-scripts) - the easiest way to get started...
+
+## Do you want to hang out?
+
+In your favorite IRC client type:
+
+```shell
+/connect irc.neosb.net
+```
+
 ## What to do?
 
 **TL;DR**
@@ -64,4 +76,4 @@ Where everything is an app. Do you want to play? Create an app and play your way
 
 [Github Sponsors](https://github.com/sponsors/phoenix-journey)
 
-[Neosb](https://neosb.marketplaceinspace.com)
+[Neosb](https://office.neosb.net)
